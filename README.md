@@ -10,7 +10,7 @@
 
 ___________
 
-This Keras code is for the paper A. Jamali, Ali and Roy, Swalpa Kumar and Hong, Danfeng and Atkinson, Peter M and Ghamisi, Pedram, "[Spatial Gated Multi-Layer Perceptron for Land Use and Land Cover Mapping]," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2024.3354175 [https://ieeexplore.ieee.org/document/10399888/authors#authors].
+This Keras code is for the paper A. Jamali, Ali and Roy, Swalpa Kumar and Hong, Danfeng and Atkinson, Peter M and Ghamisi, Pedram, "[Spatial Gated Multi-Layer Perceptron for Land Use and Land Cover Mapping]," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2024.3354175 [https://ieeexplore.ieee.org/document/10399888/].
 
 
 
