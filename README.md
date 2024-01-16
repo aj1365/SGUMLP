@@ -20,14 +20,15 @@ Citation
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
 @article{10399888,
-  author={Jamali, Ali and Roy, Swalpa Kumar and Hong, Danfeng and Atkinson, Peter M and Ghamisi, Pedram},
-  journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={Spatial Gated Multi-Layer Perceptron for Land Use and Land Cover Mapping}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/LGRS.2024.3354175}}
+        title={Spatial Gated Multi-Layer Perceptron for Land Use and Land Cover Mapping},
+        author={Jamali, Ali and Roy, Swalpa Kumar and Hong, Danfeng and Atkinson, Peter M and Ghamisi, Pedram},
+        journal={IEEE Geoscience and Remote Sensing Letters}, 
+        year={2024},
+        volume={},
+        number={},
+        pages={1-1},
+        doi={10.1109/LGRS.2024.3354175}
+        }
 
   
 Acknowledgement
